@@ -1,4 +1,4 @@
-if exists('g:loaded_Webserve')
+if exists('g:loaded_Webserve') && !has('docker-compose')
   finish
 endif
 let g:loaded_Webserve = 1
