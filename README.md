@@ -10,7 +10,7 @@ This is a Vim plugin to run nginx rely on docker-compose
 
 1. run `:StartWebServe`
 
-2. run `:EditHtml`
+2. run `:EditHtml` and edit your `html` file
 
 3. access `localhost:80`
 
